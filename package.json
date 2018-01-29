@@ -32,7 +32,7 @@
     "coveralls": "test `node --version | cut -c 2` -eq 8 && npm run coverage && grunt coveralls"
   },
   "dependencies": {
-    "complexity-report": "prantlf/complexity-report.git#combined"
+    "complexity-report": "git://github.com/prantlf/complexity-report.git#combined"
   },
   "devDependencies": {
     "grunt": "^1.0.1",
