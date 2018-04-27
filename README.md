@@ -235,8 +235,8 @@ your code using Grunt.
 
 ## Release History
 
- * 2018-04-27   v1.0.0   Dropped support of Node.js 4
- * 2018-01-29   v0.0.1   Initial release
+ * 2018-04-27  [v1.0.0]  Dropped support of Node.js 4
+ * 2018-01-29  [v0.0.1]  Initial release
 
 ## License
 
@@ -251,3 +251,4 @@ Licensed under the MIT license.
 [Gruntfile]: https://gruntjs.com/sample-gruntfile
 [Getting Gtarted]: https://github.com/gruntjs/grunt/wiki/Getting-started
 [v0.0.1]: https://github.com/prantlf/grunt-escomplex-report/releases/tag/v0.0.1
+[v1.0.0]: https://github.com/prantlf/grunt-escomplex-report/releases/tag/v1.0.0
