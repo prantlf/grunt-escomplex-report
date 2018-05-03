@@ -235,7 +235,7 @@ your code using Grunt.
 
 ## Release History
 
- * 2018-05-03  [v1.0.1]  Fixed installation if NPM proxy cache is used
+ * 2018-05-03  [v1.0.1]  Supported installation if NPM proxy cache is used
  * 2018-04-27  [v1.0.0]  Dropped support of Node.js 4
  * 2018-01-29  [v0.0.1]  Initial release
 
