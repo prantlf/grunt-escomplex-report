@@ -1,7 +1,7 @@
 'use strict'
 
-const reporter = require('complexity-report')
-const printer = require('complexity-report/src/formats/colorful')
+const reporter = require('complexity-report-ext')
+const printer = require('complexity-report-ext/src/formats/colorful')
 const mkdirp = require('mkdirp')
 const path = require('path')
 
