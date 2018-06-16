@@ -1,6 +1,11 @@
 # grunt-escomplex-report
 
-[![NPM version](https://badge.fury.io/js/grunt-escomplex-report.png)](http://badge.fury.io/js/grunt-escomplex-report) [![Build Status](https://travis-ci.org/prantlf/grunt-escomplex-report.svg?branch=master)](https://travis-ci.org/prantlf/grunt-escomplex-report) [![Coverage Status](https://coveralls.io/repos/github/prantlf/grunt-escomplex-report/badge.svg?branch=master)](https://coveralls.io/github/prantlf/grunt-escomplex-report?branch=master) [![Dependency Status](https://david-dm.org/prantlf/grunt-escomplex-report.svg)](https://david-dm.org/prantlf/grunt-escomplex-report) [![devDependency Status](https://david-dm.org/prantlf/grunt-escomplex-report/dev-status.svg)](https://david-dm.org/prantlf/grunt-escomplex-report#info=devDependencies) [![Greenkeeper badge](https://badges.greenkeeper.io/prantlf/grunt-escomplex-report.svg)](https://greenkeeper.io/) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+[![NPM version](https://badge.fury.io/js/grunt-escomplex-report.png)](http://badge.fury.io/js/grunt-escomplex-report) 
+[![Build Status](https://travis-ci.org/prantlf/grunt-escomplex-report.svg?branch=master)](https://travis-ci.org/prantlf/grunt-escomplex-report)
+[![Coverage Status](https://coveralls.io/repos/github/prantlf/grunt-escomplex-report/badge.svg?branch=master)](https://coveralls.io/github/prantlf/grunt-escomplex-report?branch=master)
+[![Dependency Status](https://david-dm.org/prantlf/grunt-escomplex-report.svg)](https://david-dm.org/prantlf/grunt-escomplex-report)
+[![devDependency Status](https://david-dm.org/prantlf/grunt-escomplex-report/dev-status.svg)](https://david-dm.org/prantlf/grunt-escomplex-report#info=devDependencies)
+[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
 [![NPM Downloads](https://nodei.co/npm/grunt-escomplex-report.png?downloads=true&stars=true)](https://www.npmjs.com/package/grunt-escomplex-report)
 
