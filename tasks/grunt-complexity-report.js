@@ -73,10 +73,10 @@ module.exports = function (grunt) {
       directoryEnsured.then(function () {
         reporter.processFiles(files, done)
       })
-      .catch(function (error) {
-        reportError(error)
-        done()
-      })
+        .catch(function (error) {
+          reportError(error)
+          done()
+        })
 
       function ensureDirectory (name) {
         return new Promise(function (resolve, reject) {
